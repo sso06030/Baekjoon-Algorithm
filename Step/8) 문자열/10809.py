@@ -17,4 +17,3 @@ for i in range(len(str)):
 
 for i in range(26):
     print(cnt[i],end=" ")
-        
